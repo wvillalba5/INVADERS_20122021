@@ -1,0 +1,14 @@
+{
+  "screen_size": [640,480],
+  "game_title": "Invaders!!!",
+  "hero_image_path": "invaders.assets.images",
+  "hero_image_filename": "hero.png",
+  "font_path": "invaders.assets.fonts",
+  "font_filename": "Sansation.ttf",
+  "font_size": 20,
+  "background_color": [30,30,60],
+  "hero_speed": 0.2,
+  "fps": 30,
+  "foreground_color": [200,0,0],
+  "max_update_time": 1000
+}

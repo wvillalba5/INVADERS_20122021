@@ -1,0 +1,16 @@
+{
+  "screen_size": [640,480],
+  "fps": 60,
+  "background_color": [0,0,0],
+  "scroll": {
+    "text": "The keyboard also has a list of modifier states (from pygame.localspygame constants) that can be assembled by bitwise-ORing them together.",
+    "speed": 0.1
+  },
+  "font": {
+    "url": "https://github.com/ianhan/BitmapFonts/raw/main/AGENTS2.png",
+    "filename": ["assets", "fonts", "agents.png"],
+    "total_letters": 44,
+    "letter_size" : [20, 28],
+    "letters_x_line": 15
+  }
+}
